@@ -1,6 +1,6 @@
-## 📊 Desafio AluraStoreBrasil: Análise de Desempenho e Recomendação de Venda
+## 📊 Análise de Desempenho das lojas
 
-### Introdução
+### introdução
 
 Este projeto foi desenvolvido para atender ao desafio do Sr. João, proprietário da AluraStoreBrasil. O objetivo central foi analisar e comparar o desempenho de quatro lojas em métricas como Faturamento, Produtos mais vendidos, frete medio para identificar a unidade mais estratégica para ser vendida.
 
